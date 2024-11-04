@@ -1,0 +1,19 @@
+{
+  "name": "week04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "101415605_comp3123-exec04.js",
+  "scripts": {
+    "start": "node 101415605_comp3123-exec04.js",
+    "dev": "nodemon 101415605_comp3123-exec04.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
